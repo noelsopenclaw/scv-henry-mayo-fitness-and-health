@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://noelsopenclaw.github.io/scv-henry-mayo-fitness-and-health/sitemap.xml
